@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maureennduta
-- 👀 I’m interested in data mining and cyber security
+- 👀 I’m interested in data mining and software development
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ui/ux projects
 
