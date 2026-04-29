@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maureennduta
-- 👀 I’m interested in data science and software development
+- 👀 I’m interested in data science and software engineering
 - 💞️ I’m looking to collaborate on ui/ux projects
 
 
